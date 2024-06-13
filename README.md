@@ -15,6 +15,6 @@ Customize Object Appearance Probability with Auto Random Spawn in Area!
 
 
 
-Preview :
+Check out this video for more details: :
 
 [![Watch the video](https://img.youtube.com/vi/YhrMSqoHRaY/0.jpg)](https://www.youtube.com/watch?v=YhrMSqoHRaY)
