@@ -12,3 +12,9 @@ Object Count Configuration: Developers can set the desired number of objects to 
 Random Placement: The package allows for random placement of the generated objects within the defined spawning area.
 User-Friendly: The package is designed with an intuitive interface, making it easy for game developers of varying skill levels to implement and configure random object spawning features.
 Customize Object Appearance Probability with Auto Random Spawn in Area!
+
+
+
+Preview :
+
+[![Watch the video](https://img.youtube.com/vi/YhrMSqoHRaY/0.jpg)](https://www.youtube.com/watch?v=YhrMSqoHRaY)
